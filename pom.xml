@@ -11,6 +11,7 @@
   <modules>
     <module>simpleWebApp-1</module>
     <module>simpleWebApp-2</module>
+    <module>simpleWebApp-3</module>
   </modules>
 
   <name>Tutorial Projects</name>

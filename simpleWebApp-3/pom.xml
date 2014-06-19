@@ -9,8 +9,7 @@
   </parent>
   <modelVersion>4.0.0</modelVersion>
   <packaging>war</packaging>
-  <artifactId>simpleWebApp-2</artifactId>
-
+  <artifactId>simpleWebApp-3</artifactId>
   <dependencies>
     <dependency>
       <groupId>javax</groupId>
@@ -19,7 +18,7 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>simpleWebApp-2</finalName>
+    <finalName>simpleWebApp-3</finalName>
     <plugins>
       <plugin>
         <groupId>org.mortbay.jetty</groupId>
@@ -28,7 +27,7 @@
           <stopPort>9000</stopPort>
           <stopKey>stopJetty</stopKey>
           <webApp>
-            <contextPath>/simpleWebApp-2</contextPath>
+            <contextPath>/simpleWebApp-3</contextPath>
           </webApp>
           <connectors>
             <connector implementation="org.eclipse.jetty.server.nio.SelectChannelConnector">

@@ -20,7 +20,7 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>simpleWebapp-1</finalName>
+    <finalName>simpleWebApp-1</finalName>
     <plugins>
       <plugin>
         <groupId>org.mortbay.jetty</groupId>
