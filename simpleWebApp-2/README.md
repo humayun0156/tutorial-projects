@@ -10,7 +10,11 @@ If you run this module with the following commnad :
 
 and hit the following URL<br/>
 `http://localhost:8081/simpleWebApp-2/` <br/>
-then in the console you will see the output<br/>
-```YourName
-simpleWebApp-2@email.com``` <br/>
+then in the console you will see the output
+
+```
+YourName
+simpleWebApp-2@email.com
+```
+
 which was set in the web.xml file `<context-param>` element
