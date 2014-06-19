@@ -19,7 +19,7 @@ then in the console you will see the output
 YourName
 ```
 
-the `/test` is needed because we use int the `<servlet-mapping>` element as follows :
+the `/test` is needed because we use in the `<servlet-mapping>` element as follows :
 ```xml
 <servlet-mapping>
     <servlet-name>myServlet</servlet-name>
