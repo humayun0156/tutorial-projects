@@ -1,7 +1,7 @@
 simpleWebApp-2
 ======
 
-This project is to show how to use `<context-param>` in a web application.
+This module is to show how to use `<context-param>` in a web application.
 Basically `<context-param>` is used to parameters to the whole web application.
 
 If you run this module with the following commnad : 
