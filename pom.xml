@@ -10,6 +10,7 @@
 
   <modules>
     <module>simpleWebApp-1</module>
+    <module>simpleWebApp-2</module>
   </modules>
 
   <name>Tutorial Projects</name>
