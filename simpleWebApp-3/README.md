@@ -9,7 +9,9 @@ If you run this module with the following command :
 
 and hit the following URL :
 
-```http://localhost:8081/simpleWebApp-3/test```
+```
+http://localhost:8081/simpleWebApp-3/test
+```
 
 then in the console you will see the output
 
