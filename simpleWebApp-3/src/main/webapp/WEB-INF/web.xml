@@ -12,6 +12,10 @@
       <param-name>userName</param-name>
       <param-value>YourName</param-value>
     </init-param>
+    <init-param>
+      <param-name>email</param-name>
+      <param-value>yourMail@email.com</param-value>
+    </init-param>
   </servlet>
 
   <servlet-mapping>

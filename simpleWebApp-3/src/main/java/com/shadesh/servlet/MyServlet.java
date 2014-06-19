@@ -14,5 +14,6 @@ public class MyServlet extends HttpServlet {
     @Override
     public void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         System.out.println(getServletConfig().getInitParameter("userName"));
+        System.out.println(getServletConfig().getInitParameter("email"));
     }
 }
