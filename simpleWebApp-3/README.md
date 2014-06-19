@@ -20,7 +20,6 @@ YourName
 ```
 
 the `/test` is needed because we use int the `<servlet-mapping>` element as follows :
-
 ```xml
 <servlet-mapping>
     <servlet-name>myServlet</servlet-name>
